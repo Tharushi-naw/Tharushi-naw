@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I’m currently pursuing a **Computer Science degree from the University of Westminster**, affiliated with **IIT Sri Lanka**
+- 🎓 I’m currently pursuing a **Computer Science degree at IIT Sri Lanka**, affiliated with the **University of Westminster, UK.**
 - 🌱 I’m currently learning **Java, Python, Web Development, APIs, Databases, AI, and DevOps fundamentals**
 - 💻 I enjoy building practical, creative, and problem-solving software solutions
 - 📚 Interested in **Full-Stack Development, Artificial Intelligence, Data Science, and DevOps**
