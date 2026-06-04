@@ -75,22 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharushi-naw&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharushi-naw&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharushi-naw&theme=github_dark" alt="Top Languages by Repository" />
-</p>
-
----
-
 ### 🌱 Currently Exploring
 
 - Full-Stack Web Development
