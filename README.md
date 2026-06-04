@@ -78,17 +78,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Tharushi-naw&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
-    alt="Tharushi's GitHub Stats" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharushi-naw&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushi-naw&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharushi-naw&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharushi-naw&theme=github_dark" alt="Top Languages by Repository" />
 </p>
 
 ---
