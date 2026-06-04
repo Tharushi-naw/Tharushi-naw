@@ -78,11 +78,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharushi-naw&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharushi-naw&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharushi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushi-naw&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushi-naw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
