@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharushi Nawodya</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring Software Developer</h3>
+<h3 align="center">Computer Science Graduate | Aspiring Software Developer</h3>
 
 ---
 
@@ -83,6 +83,7 @@
 - Machine Learning & AI Fundamentals
 - DevOps Fundamentals
 - Software Engineering Best Practices
+- Cyber Security
 
 ---
 
